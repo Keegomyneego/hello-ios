@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		948CCAE51D9E151100BD31A5 /* Hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		948CCAE51D9E151100BD31A5 /* Hello-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		948CCAE81D9E151100BD31A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		948CCAEA1D9E151100BD31A5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		948CCAED1D9E151100BD31A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		948CCAE61D9E151100BD31A5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				948CCAE51D9E151100BD31A5 /* Hello.app */,
+				948CCAE51D9E151100BD31A5 /* Hello-iOS.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		948CCAE41D9E151000BD31A5 /* Hello */ = {
+		948CCAE41D9E151000BD31A5 /* Hello-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 948CCAF71D9E151100BD31A5 /* Build configuration list for PBXNativeTarget "Hello" */;
+			buildConfigurationList = 948CCAF71D9E151100BD31A5 /* Build configuration list for PBXNativeTarget "Hello-iOS" */;
 			buildPhases = (
 				948CCAE11D9E151000BD31A5 /* Sources */,
 				948CCAE21D9E151000BD31A5 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Hello;
+			name = "Hello-iOS";
 			productName = Hello;
-			productReference = 948CCAE51D9E151100BD31A5 /* Hello.app */;
+			productReference = 948CCAE51D9E151100BD31A5 /* Hello-iOS.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 948CCAE01D9E150F00BD31A5 /* Build configuration list for PBXProject "Hello" */;
+			buildConfigurationList = 948CCAE01D9E150F00BD31A5 /* Build configuration list for PBXProject "Hello-iOS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				948CCAE41D9E151000BD31A5 /* Hello */,
+				948CCAE41D9E151000BD31A5 /* Hello-iOS */,
 			);
 		};
 /* End PBXProject section */
@@ -291,7 +291,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		948CCAE01D9E150F00BD31A5 /* Build configuration list for PBXProject "Hello" */ = {
+		948CCAE01D9E150F00BD31A5 /* Build configuration list for PBXProject "Hello-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				948CCAF51D9E151100BD31A5 /* Debug */,
@@ -300,7 +300,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		948CCAF71D9E151100BD31A5 /* Build configuration list for PBXNativeTarget "Hello" */ = {
+		948CCAF71D9E151100BD31A5 /* Build configuration list for PBXNativeTarget "Hello-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				948CCAF81D9E151100BD31A5 /* Debug */,
